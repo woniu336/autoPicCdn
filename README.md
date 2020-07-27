@@ -1,0 +1,2 @@
+# autoPicCdn
+图床存储于Github且由Jsdelivr提供全球CDN加速
